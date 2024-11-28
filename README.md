@@ -1,8 +1,7 @@
 # Olá! Meu nome é Rodrigo Faria 👋
 
-- 🔭 Estou estudando para Desenvolvimento FullStack
-- 💼 Estou estagiando em Tecnologia da Informação no IFBA -- Reitoria 
-- 🌱 Conhecimento Básico em Java, HTML, CSS e JS
+- 🔭 Estou estudando para Desenvolvimento Backend
+- 🌱 Conhecimento Básico em Java, PHP, HTML, CSS e JS
 - 👯 Busco colaborar com projetos web
 
 
