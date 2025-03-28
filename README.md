@@ -1,17 +1,17 @@
 # Olá! Meu nome é Rodrigo Faria 👋
 
-- 🔭 Estou estudando para Desenvolvimento Backend
-- 🌱 Conhecimento Básico em Java, PHP, HTML, CSS e JS
+- 🔭 Estou estudando para Desenvolvimento Fullstack
+- 🌱 Conhecimento Básico em PHP, Laravel, HTML, CSS e JS
 - 👯 Busco colaborar com projetos web
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-fullstack&show_icons=true&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-fullstack&show_icons=true&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-fullstack&theme=dark&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<div class="img-container">        
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />        
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-fullstack&theme=dark&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<div class="img-container">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = "64px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "64px"/>
   
