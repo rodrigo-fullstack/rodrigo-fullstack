@@ -1,14 +1,15 @@
 
-# Olá! Meu nome é Rodrigo Faria 👋
+# Olá. Meu nome é Rodrigo!
 
-- 🔭 Estou estudando para Desenvolvimento Fullstack
+- ❤️ Apaixonado por filosofia e programação
+- 🔭 Estudando para Desenvolvimento Fullstack
 - 🌱 Conhecimento Básico em PHP, Laravel, HTML, CSS e JS
 - 👯 Busco colaborar com projetos web
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo-fullstack&show_icons=true&theme=dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-fullstack&theme=dark&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div class="img-container">        
+<div class="img-container" style="display:flex; justify-content: center;">        
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="64px"/>
 
