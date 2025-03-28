@@ -1,3 +1,8 @@
+<style>
+  .w-64px{
+    width: 64px;
+  }
+</style>
 # Olá! Meu nome é Rodrigo Faria 👋
 
 - 🔭 Estou estudando para Desenvolvimento Fullstack
@@ -9,13 +14,13 @@
 
 <div class="img-container">        
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>        
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "64px"/>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = "64px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" class="w-64px"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = "64px"/>          
 </div>
