@@ -1,8 +1,4 @@
-<style>
-  .w-64px{
-    width: 64px;
-  }
-</style>
+
 # Olá! Meu nome é Rodrigo Faria 👋
 
 - 🔭 Estou estudando para Desenvolvimento Fullstack
@@ -29,3 +25,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
           
+<style>
+  .w-64px{
+    width: 64px;
+  }
+</style>
