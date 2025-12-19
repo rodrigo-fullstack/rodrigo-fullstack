@@ -3,7 +3,7 @@
 
 - ❤️ Apaixonado por filosofia e programação
 - 🔭 Desenvolvimento Fullstack
-- 🌱 Conhecimento en PHP, Laravel, HTML, CSS, JS e Next.js
+- 🌱 Conhecimento en PHP, Laravel, HTML, CSS, JS, React e Next.js
 - 👯 Busco colaborar com projetos web
 
 
