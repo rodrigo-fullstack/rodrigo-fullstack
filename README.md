@@ -1,13 +1,10 @@
 
 # Olá. Meu nome é Rodrigo!
 
-- ❤️ Apaixonado por filosofia e programação
+- ❤️ Apaixonado por programação
 - 🔭 Desenvolvimento Fullstack
-- 🌱 Conhecimento en PHP, Laravel, HTML, CSS, JS, React e Next.js
+- 🌱 Conhecimento em PHP, Laravel, HTML, CSS, JS, React e Next.js
 - 👯 Busco colaborar com projetos web
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-fullstack&theme=dark&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div class="img-container" style="display:flex; justify-content: center;">        
   
